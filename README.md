@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Maria Eduarda Fillmann Rodrigues  
 
 🎓 Estudante de **Ciência da Computação** na [Universidade La Salle](https://www.unilasalle.edu.br)  
-💻 Atualmente estudando do Geração Caldeira 2025 | Programação Java  
+💻 Atualmente estudando no Geração Caldeira 2025 | Programação Java  
 🌱 Aprendendo e desenvolvendo projetos em **Python, Java, HTML, CSS e JavaScript**  
 ✨ Interessada em desenvolvimento de software, TI e inovação  
 
